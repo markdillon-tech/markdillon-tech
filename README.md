@@ -70,14 +70,19 @@ Always learning and experimenting with new technologies.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markdillon-tech&show_icons=true&hide_border=true&title_color=ff5c00&icon_color=ff5c00&text_color=555555&bg_color=ffffff)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markdillon-tech&layout=compact&hide_border=true&title_color=ff5c00&text_color=555555&bg_color=ffffff)
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=markdillon-tech&hide_border=true&background=FFFFFF&ring=FF5C00&fire=FF5C00&currStreakLabel=202124&sideLabels=202124&dates=747474"
+    alt="GitHub Streak"
+    width="48%"
+  />
+
+</div>
 
 ---
 
-Build more. Finish more. Ship more.
+Stay curious. Keep learning. Make something along the way
 
 17 08 2026
