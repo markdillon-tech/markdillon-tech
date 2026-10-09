@@ -4,55 +4,80 @@ Developer building things around the stuff I'm interested in.
 
 🇲🇾 Malaysia
 
-Currently spending most of my free development time building
-an Arsenal-focused football platform for the 2026/27 season.
+I enjoy turning ideas into working software, whether that's
+a full application, a personal tool, or something built
+around my hobbies.
 
-## ⚽ Currently Building
+Most of my projects start with a simple problem I want to solve.
 
-### Arsenal
+🌐 [markdillon.xyz](https://markdillon.xyz)
+
+![Profile Views](https://komarev.com/ghpvc/?username=markdillon-tech&color=ff5c00&style=flat)
+
+## 🚀 What I've Built
+
+### ⚽ Arsenal Hub
+[arsenal.markdillon.xyz](https://arsenal.markdillon.xyz)
 
 A Laravel-based football platform built around Arsenal.
 
-The project started as a way to support my football media
-and design work and has grown into a much larger application.
+Started as a way to support my football media and design work,
+and gradually evolved into a larger application covering
+fixtures, competitions, players, statistics and matchday content.
 
-Some of what I'm building:
+`Laravel` `PHP` `MySQL` `JavaScript`
 
-- Fixture & competition management
-- Team and player database
-- Match management
-- Starting XI & substitutes
-- Match events and statistics
-- Admin dashboard
-- Matchday content
+### 🧭 Wayfinder
 
-**Stack**
+A personal work and project management platform.
 
-`Laravel` `PHP` `MySQL` `Blade` `JavaScript` `Vite`
+Built to organise projects, work items, tasks and ongoing
+development work in one place.
 
-🚧 Actively developing
+`Laravel` `PHP` `JavaScript` `MySQL`
+
+### 🏃 Thomasian
+
+A running data platform built around my interest in running,
+training and performance analysis.
+
+An ongoing project exploring workout data, statistics
+and running-related tools.
 
 ## 🧰 Small Things I Build
 
-I also enjoy building small utilities that solve problems
-I personally run into.
+Sometimes I just want a tool that does one thing well.
 
-Some of them live on my personal website.
+A few of these live on my personal website:
+
+- [Running Pace Calculator](https://markdillon.xyz/pace/)
+- [Malaysia Fuel Calculator](https://markdillon.xyz/fuel/)
+- [WhatsApp Link Generator](https://markdillon.xyz/whatsapp/)
+
+No accounts. No unnecessary complexity. Just useful tools.
 
 ## 🛠 Tech
 
+**Main**
+
 PHP · Laravel · JavaScript · MySQL · HTML · CSS
 
-Also worked with:
+**Also worked with**
 
-Python · Power Platform · UiPath · AWS
+Python · Power Platform · UiPath
 
-## 📈 2026
+Always learning and experimenting with new technologies.
 
-My goal this year is simple:
+## 📊 GitHub Stats
 
-**Build more. Finish more. Ship more.**
+## 📊 GitHub Stats
 
-Currently on the journey of turning old ideas into working software.
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markdillon-tech&show_icons=true&hide_border=true&title_color=ff5c00&icon_color=ff5c00&text_color=555555&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markdillon-tech&layout=compact&hide_border=true&title_color=ff5c00&text_color=555555&bg_color=ffffff)
+
+---
+
+Build more. Finish more. Ship more.
 
 17 08 2026
